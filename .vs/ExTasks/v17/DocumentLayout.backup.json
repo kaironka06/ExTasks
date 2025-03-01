@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itija\\source\\repos\\ExTasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|c:\\users\\itija\\source\\repos\\extasks\\extasks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|solutionrelative:extasks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|c:\\users\\itija\\source\\repos\\extasks\\extasks\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|solutionrelative:extasks\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|c:\\users\\itija\\source\\repos\\extasks\\extasks\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|solutionrelative:extasks\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|c:\\users\\itija\\source\\repos\\extasks\\extasks\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|solutionrelative:extasks\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|c:\\users\\itija\\source\\repos\\extasks\\extasks\\models\\ctarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|solutionrelative:extasks\\models\\ctarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|c:\\users\\itija\\source\\repos\\extasks\\extasks\\models\\viewmodel\\abctarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|solutionrelative:extasks\\models\\viewmodel\\abctarea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|c:\\users\\itija\\source\\repos\\extasks\\extasks\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|solutionrelative:extasks\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|c:\\users\\itija\\source\\repos\\extasks\\extasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|solutionrelative:extasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|c:\\users\\itija\\source\\repos\\extasks\\extasks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|solutionrelative:extasks\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|c:\\users\\itija\\source\\repos\\extasks\\extasks\\views\\home\\tarea_d.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|solutionrelative:extasks\\views\\home\\tarea_d.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|c:\\users\\itija\\source\\repos\\extasks\\extasks\\wwwroot\\js\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|solutionrelative:extasks\\wwwroot\\js\\home.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|c:\\users\\itija\\source\\repos\\extasks\\extasks\\models\\examencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|solutionrelative:extasks\\models\\examencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|c:\\users\\itija\\source\\repos\\extasks\\extasks\\models\\ccategorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|solutionrelative:extasks\\models\\ccategorium.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|c:\\users\\itija\\source\\repos\\extasks\\extasks\\models\\cprioridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2CEF2AB-D549-4AE8-8E38-CF75EB9F2A43}|ExTasks\\ExTasks.csproj|solutionrelative:extasks\\models\\cprioridad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ExTasks\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ExTasks\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T23:57:32.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ExTasks\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ExTasks\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T23:57:25.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "ExTasks\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "ExTasks\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T23:57:07.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CTarea.cs",
+              "DocumentMoniker": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Models\\CTarea.cs",
+              "RelativeDocumentMoniker": "ExTasks\\Models\\CTarea.cs",
+              "ToolTip": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Models\\CTarea.cs",
+              "RelativeToolTip": "ExTasks\\Models\\CTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T23:23:39.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "home.js",
+              "DocumentMoniker": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\wwwroot\\js\\home.js",
+              "RelativeDocumentMoniker": "ExTasks\\wwwroot\\js\\home.js",
+              "ToolTip": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\wwwroot\\js\\home.js",
+              "RelativeToolTip": "ExTasks\\wwwroot\\js\\home.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-02-28T22:36:54.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "tarea_d.cshtml",
+              "DocumentMoniker": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Views\\Home\\tarea_d.cshtml",
+              "RelativeDocumentMoniker": "ExTasks\\Views\\Home\\tarea_d.cshtml",
+              "ToolTip": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Views\\Home\\tarea_d.cshtml",
+              "RelativeToolTip": "ExTasks\\Views\\Home\\tarea_d.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T21:41:50.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CPrioridad.cs",
+              "DocumentMoniker": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Models\\CPrioridad.cs",
+              "RelativeDocumentMoniker": "ExTasks\\Models\\CPrioridad.cs",
+              "ToolTip": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Models\\CPrioridad.cs",
+              "RelativeToolTip": "ExTasks\\Models\\CPrioridad.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:35:28.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CCategorium.cs",
+              "DocumentMoniker": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Models\\CCategorium.cs",
+              "RelativeDocumentMoniker": "ExTasks\\Models\\CCategorium.cs",
+              "ToolTip": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Models\\CCategorium.cs",
+              "RelativeToolTip": "ExTasks\\Models\\CCategorium.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:34:32.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ABCTarea.cs",
+              "DocumentMoniker": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Models\\ViewModel\\ABCTarea.cs",
+              "RelativeDocumentMoniker": "ExTasks\\Models\\ViewModel\\ABCTarea.cs",
+              "ToolTip": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Models\\ViewModel\\ABCTarea.cs",
+              "RelativeToolTip": "ExTasks\\Models\\ViewModel\\ABCTarea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:29:06.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ExTasks\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ExTasks\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACIAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-28T19:10:02.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ExTasks\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ExTasks\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAawDAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T19:04:24.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Program.cs",
+              "RelativeDocumentMoniker": "ExTasks\\Program.cs",
+              "ToolTip": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Program.cs",
+              "RelativeToolTip": "ExTasks\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:53:42.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\appsettings.json",
+              "RelativeDocumentMoniker": "ExTasks\\appsettings.json",
+              "ToolTip": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\appsettings.json",
+              "RelativeToolTip": "ExTasks\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-28T18:51:25.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ExamenContext.cs",
+              "DocumentMoniker": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Models\\ExamenContext.cs",
+              "RelativeDocumentMoniker": "ExTasks\\Models\\ExamenContext.cs",
+              "ToolTip": "C:\\Users\\itija\\source\\repos\\ExTasks\\ExTasks\\Models\\ExamenContext.cs",
+              "RelativeToolTip": "ExTasks\\Models\\ExamenContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAIAwwD4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T18:44:34.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

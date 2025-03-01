@@ -1,0 +1,48 @@
+﻿@model List<ExTasks.Models.CTarea>
+@{
+
+    ViewData["Title"] = "Tareas";
+}
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.js"></script>
+<script src="~/js/home.js"></script>
+<div class="card">
+    <div class="card-header">
+        <h5>Lista de tareas</h5>
+    </div>
+    <div class="card-body">
+        <a class="btn btn-success btn-sm" asp-action="tarea_d" asp-controller="Home" asp-route-id="0">Crear Nuevo</a>
+        <hr />
+        <table class="table table-striped">
+            <thead>
+                <tr>
+                    <th>Tarea</th>
+                    <th>Prioridad</th>
+                    <th>Categoria</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if(Model!=null){
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Vtarea</td>
+                        <td>@item.oprioridad.Vprioridad</td>
+                        <td>@item.ocategoria.Vcategoria</td>
+                        <td>
+                                <a class="btn btn-primary btn-sm " asp-action="tarea_d" asp-controller="Home" asp-route-NidTarea="@item.NidTarea"> Editar</a>
+                                <a class="btn btn-danger btn-sm" onclick="eliminar('@item.NidTarea')" > Eliminar</a>
+                        </td>
+                    </tr>
+
+
+
+                }
+                }
+            </tbody>
+        </table>
+
+
+    </div>
+</div>
